@@ -35,6 +35,42 @@
                 }
             ],
             "aboutThisGame": "Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action.\nIn No Man's Sky, every star is the light of a distant sun, each orbited by planets filled with life, and you can go to any of them you choose. Fly smoothly from deep space to planetary surfaces, with no loading screens, and no limits. In this infinite procedurally generated universe, you'll discover places and creatures that no other players have seen before - and perhaps never will again."
+        },
+        {
+            "id":2,
+            "name":"Grand Theft Auto V",
+            "price":449,
+            "PCSpecsReq":{
+                "OS": " Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1",
+                "Processor": "Intel Core 2 Quad CPU Q6600 @ 2,40 GHz (4 CPU-er) / AMD Phenom 9850 Quad-Core (4 CPU-er) @ 2,5 GHz",
+                "Minne": "4 GB RAM",
+                "Graphics": " NVIDIA 9800 GT 1 GB / AMD HD 4870 1 GB (DX 10, 10.1, 11)",
+                "Storage": "72 GB tilgjengelig plass"
+            },
+            "shortDesc": "Grand Theft Auto V for PC gir spillerne muligheten til å utforske den prisbelønte verdenen Los Santos og Blaine County i oppløsninger på inntil 4k og større, i tillegg til sjansen til å oppleve spillet i 60 bilder per sekund.",
+            "developer": "Rockstar Games",
+            "releaseDate": "14. apr. 2015",
+            "gameBanner": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1618856444",
+            "gameVideo": "https://cdn.akamai.steamstatic.com/steam/apps/2032899/movie480.webm?t=1447362323",
+            "reviews": [
+                {
+                    "userName": "Houdini",
+                    "hours": 40,
+                    "timePublished": "9. Mai",
+                    "profilePicture": "https://avatars.akamai.steamstatic.com/eedd9683808199c03328f48ac8e115029da61b46.jpg",
+                    "reviewText": "Yee yee ass haircut",
+                    "likes": 4
+                },
+                {
+                    "userName": "Saggen",
+                    "hours": 28,
+                    "timePublished": "22. Mai",
+                    "profilePicture": "https://avatars.akamai.steamstatic.com/1bb9fd3b636b19af9ab6eb1da5f81e5f11225688.jpg",
+                    "reviewText": "I love this game. This game makes the dragon happy.",
+                    "likes": 1
+                }
+            ],
+            "aboutThisGame": "Når en ung gatesvindler, en pensjonert bankraner og en hensynsløs psykopat havner i trøbbel med noen av de mest fryktede og forskrudde skikkelsene i den kriminelle underverdenen samt den amerikanske regjeringen og underholdningsbransjen, må de gjennomføre en rekke farlige ran for å overleve i en nådeløs by hvor de ikke kan stole på noen – og minst av alt hverandre.\nGrand Theft Auto V for PC gir spillerne muligheten til å utforske den prisbelønte verdenen Los Santos og Blaine County i oppløsninger på inntil 4k og større, i tillegg til sjansen til å oppleve spillet i 60 bilder per sekund.\nSpillet gir spillerne en stort utvalg tilpassingsalternativer som er unike for PC-versjonen, inkludert mer enn 25 ulike konfigurerbare innstillinger for teksturkvalitet, skyggelegging, mosaikk, anti-aliasing og mer, i tillegg til støtte og omfattende tilpassing av mus- og tastaturkontroller. De ekstra alternativene inkluderer en glidebryter som styrer befolkningstettheten ved å kontrollere antall biler og fotgjengere, støtte for dobbelt og trippel monitor, 3D-kompatibilitet samt støtte for plug-and-play-kontrollere."
         }
     ]
 }
