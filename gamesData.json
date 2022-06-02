@@ -4,73 +4,23 @@
             "id":1,
             "name":"No Man's Sky",
             "price":499,
-            "PCSpecsReq":{
-                "OS": "Windows 7",
-                "Processor": "Intel Core i3",
-                "Minne": "8 GB RAM",
-                "Graphics": "nVidia GTA 480",
-                "Storage": "10 GB"
-            },
             "shortDesc": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
-            "developer": "Hello Games",
+            "publisher": "Hello Games",
             "releaseDate": "12. aug. 2016",
             "gameBanner": "https://cdn.akamai.steamstatic.com/steam/apps/275850/header_alt_assets_10.jpg?t=1650622054",
             "gameVideo": "https://cdn.akamai.steamstatic.com/steam/apps/256881969/movie480_vp9.webm?t=1649855307",
-            "reviews": [
-                {
-                    "userName": "SocksWrangler",
-                    "hours": 263,
-                    "timePublished": "9. April",
-                    "profilePicture": "https://avatars.akamai.steamstatic.com/f3d05db4d8557efbcdbfb337f4176abe9fcb5c1b.jpg",
-                    "reviewText": "Hello Games acknowledged that they messed up by overhyping the game and lying about features that weren't present at launch.\nHello Games buckled down and started fixing the game and adding features free of charge instead of taking the money and running.\nHello Games went from being maligned to admired by most everyone who has played their vastly-improved No Man's Sky as well as their other work, all thanks to admitting fault and fixing their mistake.\nBe like Hello Games.",
-                    "likes": 45
-                },
-                {
-                    "userName": "Friggin Trooper",
-                    "hours": 28,
-                    "timePublished": "13. April",
-                    "profilePicture": "https://avatars.akamai.steamstatic.com/3c1c774bb4eaaf5a31ed3917818ed7a2dd01e7f2.jpg",
-                    "reviewText": "Developer update: We updated the game.\nDeveloper update: We updated the game.\nDeveloper update: We updated the game.\nDeveloper update: We updated the game.\nDeveloper update: We updated the game.\nMe: You guys are best at updating\nDeveloper update: Updated",
-                    "likes": 4
-                }
-            ],
-            "aboutThisGame": "Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action.\nIn No Man's Sky, every star is the light of a distant sun, each orbited by planets filled with life, and you can go to any of them you choose. Fly smoothly from deep space to planetary surfaces, with no loading screens, and no limits. In this infinite procedurally generated universe, you'll discover places and creatures that no other players have seen before - and perhaps never will again."
+            "aboutThisGame": "Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action.<br><br>In No Man's Sky, every star is the light of a distant sun, each orbited by planets filled with life, and you can go to any of them you choose. Fly smoothly from deep space to planetary surfaces, with no loading screens, and no limits. In this infinite procedurally generated universe, you'll discover places and creatures that no other players have seen before - and perhaps never will again.<br>Now including...<br><br>Play with all major updates since launch: Foundation, Pathfinder, Atlas Rises, NEXT, The Abyss, Visions, the 2.0 BEYOND update, Synthesis, Living Ship, Exo Mech, Desolation and the 3.0 update, ORIGINS, Next Generation, Companions, Expeditions, Prisms, Frontiers, Sentinel and Outlaws.<br><br>An epic voyage to the centre of a shared universe awaits, allowing you to explore, trade, fight and survive alone or with friends.<br>Embark on an epic voyage<br><br>At the centre of the galaxy lies a irresistible pulse which draws you on a journey towards it to learn the true nature of the cosmos. But, facing hostile creatures and fierce pirates, you'll know that death comes at a cost, and survival will be down to the choices you make over how you upgrade your ship, your weapon and suit.<br>Find your own destiny<br><br>Your voyage through No Man's Sky is up to you. Will you be a fighter, preying on the weak and taking their riches, or taking out pirates for their bounties? Power is yours if you upgrade your ship for speed and weaponry.<br><br>Or a trader? Find rich resources on forgotten worlds and exploit them for the highest prices. Invest in more cargo space and you'll reap huge rewards.<br><br>Or perhaps an explorer? Go beyond the known frontier and discover places and things that no one has ever seen before. Upgrade your engines to jump ever farther, and strengthen your suit for survival in toxic environments that would kill the unwary.<br>Share your journey<br><br>The galaxy is a living, breathing place. Trade convoys travel between stars, factions vie for territory, pirates hunt the unwary, and the police are ever watching. Every other player lives in the same galaxy, and you can choose to share your discoveries with them on a map that spans known space. Perhaps you will see the results of their actions as well as your own..."
         },
         {
             "id":2,
             "name":"Grand Theft Auto V",
             "price":449,
-            "PCSpecsReq":{
-                "OS": " Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1",
-                "Processor": "Intel Core 2 Quad CPU Q6600 @ 2,40 GHz (4 CPU-er) / AMD Phenom 9850 Quad-Core (4 CPU-er) @ 2,5 GHz",
-                "Minne": "4 GB RAM",
-                "Graphics": " NVIDIA 9800 GT 1 GB / AMD HD 4870 1 GB (DX 10, 10.1, 11)",
-                "Storage": "72 GB tilgjengelig plass"
-            },
             "shortDesc": "Grand Theft Auto V for PC gir spillerne muligheten til å utforske den prisbelønte verdenen Los Santos og Blaine County i oppløsninger på inntil 4k og større, i tillegg til sjansen til å oppleve spillet i 60 bilder per sekund.",
-            "developer": "Rockstar Games",
+            "publisher": "Rockstar Games",
             "releaseDate": "14. apr. 2015",
             "gameBanner": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1618856444",
             "gameVideo": "https://cdn.akamai.steamstatic.com/steam/apps/2032899/movie480.webm?t=1447362323",
-            "reviews": [
-                {
-                    "userName": "Houdini",
-                    "hours": 40,
-                    "timePublished": "9. Mai",
-                    "profilePicture": "https://avatars.akamai.steamstatic.com/eedd9683808199c03328f48ac8e115029da61b46.jpg",
-                    "reviewText": "Yee yee ass haircut",
-                    "likes": 4
-                },
-                {
-                    "userName": "Saggen",
-                    "hours": 28,
-                    "timePublished": "22. Mai",
-                    "profilePicture": "https://avatars.akamai.steamstatic.com/1bb9fd3b636b19af9ab6eb1da5f81e5f11225688.jpg",
-                    "reviewText": "I love this game. This game makes the dragon happy.",
-                    "likes": 1
-                }
-            ],
-            "aboutThisGame": "Når en ung gatesvindler, en pensjonert bankraner og en hensynsløs psykopat havner i trøbbel med noen av de mest fryktede og forskrudde skikkelsene i den kriminelle underverdenen samt den amerikanske regjeringen og underholdningsbransjen, må de gjennomføre en rekke farlige ran for å overleve i en nådeløs by hvor de ikke kan stole på noen – og minst av alt hverandre.\nGrand Theft Auto V for PC gir spillerne muligheten til å utforske den prisbelønte verdenen Los Santos og Blaine County i oppløsninger på inntil 4k og større, i tillegg til sjansen til å oppleve spillet i 60 bilder per sekund.\nSpillet gir spillerne en stort utvalg tilpassingsalternativer som er unike for PC-versjonen, inkludert mer enn 25 ulike konfigurerbare innstillinger for teksturkvalitet, skyggelegging, mosaikk, anti-aliasing og mer, i tillegg til støtte og omfattende tilpassing av mus- og tastaturkontroller. De ekstra alternativene inkluderer en glidebryter som styrer befolkningstettheten ved å kontrollere antall biler og fotgjengere, støtte for dobbelt og trippel monitor, 3D-kompatibilitet samt støtte for plug-and-play-kontrollere."
+            "aboutThisGame": "Når en ung gatesvindler, en pensjonert bankraner og en hensynsløs psykopat havner i trøbbel med noen av de mest fryktede og forskrudde skikkelsene i den kriminelle underverdenen samt den amerikanske regjeringen og underholdningsbransjen, må de gjennomføre en rekke farlige ran for å overleve i en nådeløs by hvor de ikke kan stole på noen – og minst av alt hverandre.<br><br>Grand Theft Auto V for PC gir spillerne muligheten til å utforske den prisbelønte verdenen Los Santos og Blaine County i oppløsninger på inntil 4k og større, i tillegg til sjansen til å oppleve spillet i 60 bilder per sekund.<br><br>Spillet gir spillerne en stort utvalg tilpassingsalternativer som er unike for PC-versjonen, inkludert mer enn 25 ulike konfigurerbare innstillinger for teksturkvalitet, skyggelegging, mosaikk, anti-aliasing og mer, i tillegg til støtte og omfattende tilpassing av mus- og tastaturkontroller. De ekstra alternativene inkluderer en glidebryter som styrer befolkningstettheten ved å kontrollere antall biler og fotgjengere, støtte for dobbelt og trippel monitor, 3D-kompatibilitet samt støtte for plug-and-play-kontrollere."
         }
     ]
 }
