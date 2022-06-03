@@ -27,11 +27,22 @@
             "name":"Going Medieval",
             "price":140,
             "shortDesc": "Stake your claim in this colony building sim and survive a turbulent Medieval age. Construct a multi-storey fortress in a land reclaimed by wilderness, defend against raids, and keep your villagers happy as their lives are shaped by the world around them.",
-            "publisher": "Rockstar Games",
-            "releaseDate": "14. apr. 2015",
+            "publisher": "The Irregular Corporation",
+            "releaseDate": "1. juni 2021",
             "gameBanner": "https://cdn.cloudflare.steamstatic.com/steam/apps/1029780/header.jpg?t=1654080734",
             "gameVideo": "https://cdn.cloudflare.steamstatic.com/steam/apps/256856388/movie480_vp9.webm?t=1634640774",
             "aboutThisGame": "STAKE YOUR CLAIM<br>In the world of Going Medieval, dark age society is on its knees. At the end of the 14th century, 95% of the global population has perished due to rampant plague.<br><br>Eventually, survivors emerge from society’s ashes, and it’s now up to you to help them settle in a dangerous new land reclaimed by nature. Build your people a home, help shape their lives, and protect them from animals, bandits, and other dangers in a lawless post-calamity age.<br><br>BUILD YOUR FORTRESS<br>Design, build and expand your settlement from a small wooden hut into a colossal stone castle. With simple-to-use 3D terrain tools you can create the perfect stronghold, from winding underground caverns to sprawling multi-story forts."
+        },
+        {
+            "id":4,
+            "name":"The Sims™ 4",
+            "price":199,
+            "shortDesc": "Lag og kontroller folk i en virtuell verden der det ikke er noen regler. Vær mektig og fri, ha det moro, og lek med livet!",
+            "publisher": "Electronic Arts",
+            "releaseDate": "2. sep. 2014",
+            "gameBanner": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg?t=1654191055",
+            "gameVideo": "https://cdn.cloudflare.steamstatic.com/steam/apps/256872523/movie480_vp9.webm?t=16443360234",
+            "aboutThisGame": "Slipp løs fantasien din og skap en verden av simmer som er helt unik. Utforsk og tilpass hver minst detalj på alt fra simmer til hjem og mye mer. Velg hvordan simmer skal se ut, oppføre seg og kle seg. Bestem hvordan hverdagen deres skal utfolde seg.<br><br>Design og bygg fantastiske hjem til hver familie, og dekorer hjemmene med favorittmøblene og -innredningen din. Reis til ulike nabolag der du kan møte andre simmer og lære mer om livene deres.<br><br>Oppdag vakre steder med karakteristiske miljøer, og dra på spontane eventyr. Håndter opp- og nedturene i simmenes hverdag, og se hva som skjer når du spiller ut realistiske scenarioer eller fantasi-scenarioer. Fortell historiene slik du selv ønsker det, mens du bygger forhold, følger karrieremål og livsambisjoner, og fordyper deg i dette ekstraordinære spillet der mulighetene er endeløse.<br><br>Lag unike simmer – Du kan forme og skape en rekke simmer slik du selv ønsker det, med karakteristiske utseender, dynamiske personligheter og inspirerende ambisjoner. Bruk kraftige tilpasningsfunksjoner for å gi liv til fantasien din. Lag deg selv, drømmen din, favorittkjendisene eller vennene dine! Skift simmenes klær slik at de reflekterer humøret ditt. Gi simmene dine dybde og formål med originale personlighetstrekk og store ambisjoner.<br><br>Bygg det perfekte hjemmet– Med Byggemodus er det enkelt å bygge og designe perfekte hjem til simmene dine. Skap ditt og simmenes drømmehjem ved å planlegge husets planløsning, velge møbler og endre landskapet og terrenget. Du kan til og med legge til et basseng, en kjeller og en hage. Ikke fornøyd med hvordan huset ser ut? Forkast det og gjenoppbygg huset med nye ideer og designer."
         }
     ]
 }
